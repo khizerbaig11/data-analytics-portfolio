@@ -17,7 +17,6 @@ Build an interactive dashboard analyzing global trade trends across countries an
 
 
 ![image](https://github.com/user-attachments/assets/4550f1e7-2ffb-4e77-8a8b-d532f33138c5)
-![image](https://github.com/user-attachments/assets/4550f1e7-2ffb-4e77-8a8b-d532f33138c5)
 
 
 ## 📁 Files
