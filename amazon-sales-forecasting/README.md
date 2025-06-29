@@ -22,11 +22,14 @@ Developed a predictive model to forecast weekly units ordered for Amazon brands,
 
 
 
-## 🗂️ Files
-- `sales_forecast_model.ipynb`: Notebook with EDA, modeling, and evaluation.
-- `app.py`: Flask app for local deployment.
-- `forecast_dashboard.pbix`: Power BI visualization file.
-- `amazon_sales_data.csv`: Sample dataset (if included).
+## 📂 Files
+
+- `Final_Capstone_Flask.ipynb` : Notebook with EDA, modeling, and evaluation.
+- `app.py` : Flask app for local deployment.
+- `requirements.txt` : Python dependencies for environment setup.
+- `amazon_sales_data.csv` : Sample dataset (if included).
+- `Capstone Final Report Group 2.pdf` : Final project report.
+- `Final Capstone Presentation.pptx` : Project presentation slides.
 
 ## 📎 More Info
 Check out my full portfolio [here](https://github.com/khizerbaig11/data-analytics-portfolio).
