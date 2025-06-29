@@ -17,7 +17,8 @@ Developed a predictive model to forecast weekly units ordered for Amazon brands,
 - Created an interactive Power BI dashboard for weekly forecast reports.
 
 ## 📷 Screenshot
-![Forecast Dashboard](screenshot.png)
+![image](https://github.com/user-attachments/assets/6743ac44-59da-455a-bb28-17a596201237)
+
 
 ## 🗂️ Files
 - `sales_forecast_model.ipynb`: Notebook with EDA, modeling, and evaluation.
