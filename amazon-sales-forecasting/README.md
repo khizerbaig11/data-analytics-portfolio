@@ -17,9 +17,7 @@ Developed a predictive model to forecast weekly units ordered for Amazon brands,
 - Created an interactive Power BI dashboard for weekly forecast reports.
 
 ## 📷 Screenshot
-![image](https://github.com/user-attachments/assets/6743ac44-59da-455a-bb28-17a596201237)
-![image](https://github.com/user-attachments/assets/0eb93f0d-f1ca-4a2f-8a86-dd78af3c8711)
-![image](https://github.com/user-attachments/assets/91a8a045-a119-473e-94ad-874c408bbf10)
+![image](https://github.com/user-attachments/assets/6743ac44-59da-455a-bb28-17a596201237)![image](https://github.com/user-attachments/assets/0eb93f0d-f1ca-4a2f-8a86-dd78af3c8711)![image](https://github.com/user-attachments/assets/91a8a045-a119-473e-94ad-874c408bbf10)
 
 
 
